@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Straw Hat Pirate</string>
+    <string name="character_name">Character Name</string>
+    <string name="detail">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis augue in sapien imperdiet suscipit. Donec porttitor interdum elit eget vehicula. Nulla rutrum iaculis vestibulum. Vestibulum semper sem ac magna sollicitudin suscipit. Aenean vitae molestie est. Morbi varius, elit a consequat vestibulum, ex leo malesuada augue, in scelerisque lectus lacus sit amet sapien. Curabitur a aliquet felis. Curabitur sit amet cursus tellus. Mauris porta accumsan magna eget accumsan. Nulla facilisi. Pellentesque sit amet purus at lectus mattis facilisis. Donec ornare suscipit euismod.</string>
+    <string name="member_list">Member List</string>
+    <string name="member_card_view">Member Card View</string>
+    <string name="about">About</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="developer_name">Okugata Fahmi Nurul Yudho Fauzan</string>
+    <string name="developer_email">otasrit@gmail.com</string>
+    <string name="character_bounty">Character Bounty</string>
+    <string name="character_occupation">Character Occupation</string>
+    <string name="name">Name</string>
+    <string name="occupation">Occupation</string>
+    <string name="bounty">Bounty</string>
+    <string name="character_image">Character Image</string>
+</resources>
